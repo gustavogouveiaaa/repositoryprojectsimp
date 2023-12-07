@@ -1,0 +1,14 @@
+# Ignorar a pasta node_modules
+node_modules/
+vscode
+# Ignorar arquivos temporários
+*.log
+.DS_Store
+.vscode/
+node_modules
+.env
+# Prisma
+.env
+prisma/.env
+prisma/.prisma/client
+prisma/migration-lock.toml
